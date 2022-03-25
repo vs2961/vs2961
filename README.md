@@ -10,7 +10,7 @@ I'm a computer science major at UCSD who's always willing to learn and work with
 - &nbsp; My favorite programming language is Python, but I'm also proficient <br/> with web development, particularly React.js.
 - &nbsp; Many of my projects are available on [Github](https://github.com/vs2961).
 - &nbsp; Fun fact: typing `import this` in Python will print a fun poem about the zen of Python.
-- &nbsp; Check out my resume [here](https://github.com/vs2961/vs2961/blob/master/resume.pdf).
+- &nbsp; Check out my resume [here](https://vs2961.github.io/resume/Resume%20-%20Victor%20Siu.pdf).
 
 ### Languages and Tools:
 
