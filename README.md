@@ -1,4 +1,4 @@
-## Nice to meet you! I'm [Victor](https://github.com/vs2961/)!
+## Nice to meet you! I'm Victor!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/victorsiuwastaken)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
