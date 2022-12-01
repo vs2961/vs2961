@@ -1,6 +1,6 @@
 ## Nice to meet you! I'm Victor!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/victor_siu-)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/victor-siu-)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://vs2961.github.io/)
 
 I'm a computer science major at UCSD who's always willing to learn and work with new technologies! It's my dream to one day to use my knowledge to solve real-life problems.
